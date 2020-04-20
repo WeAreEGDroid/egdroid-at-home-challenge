@@ -1,0 +1,3 @@
+[submodule "animation-challenge"]
+	path = animation-challenge
+	url = https://github.com/eg-droid/animation-challenge
